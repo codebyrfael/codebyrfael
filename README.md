@@ -1,8 +1,10 @@
 # 👋 Hello, I'm Rafael!
 
-🎓 Business Administration graduate  
-💻 Currently learning Python, HTML and CSS  
-🚀 Interested in technology, digital projects and innovation
+🎓 Graduated in Business Administration  
+🌐 Postgraduate in Fashion E-commerce  
+💻 Currently learning Python  
+📝 Exploring GitHub and Markdown for documentation  
+🚀 Interested in technology, digital projects, art and innovation  
 
 ---
 
@@ -14,6 +16,6 @@
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
 
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:seuemail@outlook.com)
