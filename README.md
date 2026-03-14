@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Rafael!
 
-🎓 Business Administration graduate  
-💻 Currently learning Python, HTML and CSS  
-🚀 Interested in technology, digital projects and innovation
+🎓 Business Administration graduate and Postgraduate in Fashion Business
+💻 Currently learning Python
+🚀 Interested in technology, digital projects Art and innovation
 
 ---
 
