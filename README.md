@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 🎓 Graduated in Business Administration  
-🛍️ Postgraduate in Fashion and E-commerce  
+🌐 Postgraduate in Fashion and E-commerce  
 💻 Currently learning Python  
 📝 Exploring GitHub and Markdown  
 🚀 Interested in technology, digital projects, art and innovation  
